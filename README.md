@@ -1,5 +1,7 @@
 ### Hi there 👋, welcome to my repository :innocent:
 
+ Please visit www.kduwadi.com for portfolio.
+
  - :shamrock: I worked on following open-source repositories while at NREL in 2020.
     - :snake: EMeRGE (www.github.com/nrel/emerge) - uses GIS data to develop distribution feeder opendss model, performs time series power flow, ability to define custom PV scenarios, compute analysis metrics, dashboard to visualize metrics
     - :snake: EVOLVE (www.github.com/nrel/evolve) - React based dashboard to visualize impact of emerging technologies (solar, energy storage, electric vehicle) in net load variation, uses python for backend, docker is used to launch both services i.e. frontend and backend
