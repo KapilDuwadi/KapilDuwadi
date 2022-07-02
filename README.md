@@ -1,6 +1,9 @@
-### Hi there 👋, welcome to my repository :innocent:
+### Hi there 👋, Hope you are having good time surfing the Internet :smiley:
 
- Please visit www.kduwadi.com for portfolio.
+I am currently a Research Enginner at [National Renewable Energy Laboratory](www.nrel.gov). I mostly work on developing research softwares
+helping power distribution utilities as well as university researchers understand interaction between power grid and grid edge technologies. 
+[Visit my website](www.kduwadi.com) if you are interested in learning about the projects I am involved in.
+
 
  - :shamrock: I worked on following open-source repositories while at NREL in 2020.
     - :snake: EMeRGE (www.github.com/nrel/emerge) - uses GIS data to develop distribution feeder opendss model, performs time series power flow, ability to define custom PV scenarios, compute analysis metrics, dashboard to visualize metrics
