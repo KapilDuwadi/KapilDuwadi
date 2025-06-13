@@ -1,7 +1,6 @@
 ### Hi there 👋, Hope you are having good time surfing the Internet :smiley:
 
-I am currently a Research Enginner at [National Renewable Energy Laboratory](www.nrel.gov). I mostly work on developing research softwares
-helping power distribution utilities as well as university researchers understand interaction between power grid and grid edge technologies. 
+I am currently a Software Enginner at [Pacific Northwest National Laboratory](www.pnnl.gov). I am currently working on mulitple full stack softwares for the department of energy.
 [Visit my website](www.kduwadi.com) if you are interested in learning about the projects I am involved in. Below is a list of projects I am currently working and/or maintaing.
 
 
