@@ -1,3 +1,7 @@
+# Hi, I'm Kapil 👋
+
+📍 **Pacific Northwest National Laboratory** | ⚡ **Grid engineer who ships** | 🤖 **AI-native builder**
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -7,10 +11,6 @@
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
-
-# Hi, I'm Kapil 👋
-
-📍 **Pacific Northwest National Laboratory** | ⚡ **Grid engineer who ships** | 🤖 **AI-native builder**
 
 I make power grid data useful. Serious simulation infrastructure at PNNL · micro-apps for everything else.
 
