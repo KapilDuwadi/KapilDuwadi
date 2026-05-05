@@ -14,20 +14,20 @@
 
 I make power grid data useful. Serious simulation infrastructure at PNNL · micro-apps for everything else.
 
-## Active Projects
+## Current Projects
 
-- 🛒 **[groclist](https://github.com/KapilDuwadi/groclist)** — Grocery list app with smart organization
-- 🎁 **[wishlist](https://github.com/KapilDuwadi/wishlist)** — Personal wishlist manager — full-stack app
-- 🏷️ **[labelforge](https://github.com/KapilDuwadi/labelforge)** — Data labeling tool for training pipelines
-- ⚡ **grid-reducer** — Simplifies complex distribution network models for analysis
-- 🗺️ **grid-meta** — Metadata extraction and enrichment for power grid datasets
+- 🛒 **[groclist](https://github.com/KapilDuwadi/groclist)** — Offline app to quickly create grocery list
+- 🎁 **[wishlist](https://github.com/KapilDuwadi/wishlist)** — Personal wishlist, works offline
+- 🏷️ **[labelforge](https://github.com/KapilDuwadi/labelforge)** — Custom product labels and genreate ready-print PDFs, works offline
+- ⚡ **[grid-reducer](https://github.com/Grid-Kitchen/grid-reducer)** — Network reduction of distribution system power flow model for data privacy
+- 🗺️ **[grid-meta](https://github.com/Grid-Kitchen/grid-meta)** — Extracting dehydrated metadata for distribution power grid model
 
 ### Legacy Work
 
 - 📐 **[grid-data-models](https://github.com/NLR-Distribution-Suite/grid-data-models)** — Pydantic data models for power distribution system assets — the foundation layer
 - 🔬 **[EMeRGE](https://github.com/NatLabRockies/EMeRGE)** — DER impact assessment for distribution networks
 - 🔀 **[shift](https://github.com/NLR-Distribution-Suite/shift)** — Build distribution power models from open-source data
-- 📈 **evolve** — Time-series load evolution modeling for grid planning
+- 📈 **[evolve](https://github.com/NatLabRockies/EVOLVE)** — Modern UI tool for modeling solar, energy storage and electric vehicle providing insight regarding how it impact load profile
 
 ## ⚡ What I Work On
 
