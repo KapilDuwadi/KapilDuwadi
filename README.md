@@ -29,6 +29,10 @@ I make power grid data useful. Serious simulation infrastructure at PNNL · micr
 - 🔀 **[shift](https://github.com/NLR-Distribution-Suite/shift)** — Build distribution power models from open-source data
 - 📈 **[evolve](https://github.com/NatLabRockies/EVOLVE)** — Modern UI tool for modeling solar, energy storage and electric vehicle providing insight regarding how it impact load profile
 
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/KapilDuwadi)
+
 ## What I Work On
 
 Power grids are getting complicated fast — solar panels, batteries, EVs, and microgrids are landing on infrastructure designed decades ago for one-way power flow. The software to model, simulate, and manage that complexity is mostly ancient or nonexistent.
