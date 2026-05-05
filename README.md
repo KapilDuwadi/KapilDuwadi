@@ -1,9 +1,3 @@
-# Hi, I'm Kapil 👋
-
-📍 **Pacific Northwest National Laboratory** | ⚡ **Grid engineer who ships** | 🤖 **AI-native builder**
-
-I make power grid data useful. Serious simulation infrastructure at PNNL · micro-apps for everything else.
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -14,6 +8,12 @@ I make power grid data useful. Serious simulation infrastructure at PNNL · micr
 ![CLI](https://img.shields.io/badge/-CLI-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 
+# Hi, I'm Kapil 👋
+
+📍 **Pacific Northwest National Laboratory** | ⚡ **Grid engineer who ships** | 🤖 **AI-native builder**
+
+I make power grid data useful. Serious simulation infrastructure at PNNL · micro-apps for everything else.
+
 ## Active Projects
 
 - 🛒 **[groclist](https://github.com/KapilDuwadi/groclist)** — Grocery list app with smart organization
@@ -22,16 +22,12 @@ I make power grid data useful. Serious simulation infrastructure at PNNL · micr
 - ⚡ **grid-reducer** — Simplifies complex distribution network models for analysis
 - 🗺️ **grid-meta** — Metadata extraction and enrichment for power grid datasets
 
-
 ### Legacy Work
-
-Tools built for NREL, PNNL, and the broader energy research community — still running in production.
 
 - 📐 **[grid-data-models](https://github.com/NLR-Distribution-Suite/grid-data-models)** — Pydantic data models for power distribution system assets — the foundation layer
 - 🔬 **[EMeRGE](https://github.com/NatLabRockies/EMeRGE)** — DER impact assessment for distribution networks
 - 🔀 **[shift](https://github.com/NLR-Distribution-Suite/shift)** — Build distribution power models from open-source data
 - 📈 **evolve** — Time-series load evolution modeling for grid planning
-
 
 ## ⚡ What I Work On
 
@@ -45,7 +41,6 @@ Right now that means:
 - **📐 Data modeling** — clean, typed, interoperable schemas for grid assets
 - **🤖 AI integration** — using LLMs to make grid data accessible without needing a PhD to query it
 - **🖥️ Full-stack apps** — tools that researchers and operators can actually use
-
 
 ## 🔗 Connect
 
