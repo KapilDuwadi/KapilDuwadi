@@ -14,8 +14,6 @@ I make power grid data useful. Serious simulation infrastructure at PNNL · micr
 ![CLI](https://img.shields.io/badge/-CLI-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
 
----
-
 ## Active Projects
 
 - 🛒 **[groclist](https://github.com/KapilDuwadi/groclist)** — Grocery list app with smart organization
@@ -24,7 +22,6 @@ I make power grid data useful. Serious simulation infrastructure at PNNL · micr
 - ⚡ **grid-reducer** — Simplifies complex distribution network models for analysis
 - 🗺️ **grid-meta** — Metadata extraction and enrichment for power grid datasets
 
----
 
 ### Legacy Work
 
@@ -35,7 +32,6 @@ Tools built for NREL, PNNL, and the broader energy research community — still 
 - 🔀 **[shift](https://github.com/NLR-Distribution-Suite/shift)** — Build distribution power models from open-source data
 - 📈 **evolve** — Time-series load evolution modeling for grid planning
 
----
 
 ## ⚡ What I Work On
 
@@ -50,7 +46,6 @@ Right now that means:
 - **🤖 AI integration** — using LLMs to make grid data accessible without needing a PhD to query it
 - **🖥️ Full-stack apps** — tools that researchers and operators can actually use
 
----
 
 ## 🔗 Connect
 
