@@ -16,7 +16,7 @@ I make power grid data useful. Serious simulation infrastructure at PNNL · micr
 
 ---
 
-## 🚀 Active Projects
+## Active Projects
 
 - 🛒 **[groclist](https://github.com/KapilDuwadi/groclist)** — Grocery list app with smart organization
 - 🎁 **[wishlist](https://github.com/KapilDuwadi/wishlist)** — Personal wishlist manager — full-stack app
@@ -26,7 +26,7 @@ I make power grid data useful. Serious simulation infrastructure at PNNL · micr
 
 ---
 
-## 🏛️ Legacy Work
+### Legacy Work
 
 Tools built for NREL, PNNL, and the broader energy research community — still running in production.
 
