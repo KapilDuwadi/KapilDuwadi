@@ -42,8 +42,9 @@ Right now that means:
 - **🤖 AI integration** — using LLMs to make grid data accessible without needing a PhD to query it
 - **🖥️ Full-stack apps** — tools that researchers and operators can actually use
 
-## 🔗 Connect
+## Connect
 
-- 🌐 Website: [kduwadi.com](https://www.kduwadi.com)
-- 🏢 Company: [Pacific Northwest National Laboratory](https://www.pnnl.gov)
-- 🐙 Organizations: [NLR-Distribution-Suite](https://github.com/NLR-Distribution-Suite) · [NatLabRockies](https://github.com/NatLabRockies)
+[![Website](https://img.shields.io/badge/-kduwadi.com-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://www.kduwadi.com)
+[![PNNL](https://img.shields.io/badge/-Pacific_Northwest_National_Lab-003366?style=flat-square&logo=energy&logoColor=white)](https://www.pnnl.gov)
+[![NLR-Distribution-Suite](https://img.shields.io/badge/-NLR--Distribution--Suite-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NLR-Distribution-Suite)
+[![NatLabRockies](https://img.shields.io/badge/-NatLabRockies-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NatLabRockies)
