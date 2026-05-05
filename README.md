@@ -18,13 +18,11 @@ I make power grid data useful. Serious simulation infrastructure at PNNL · micr
 
 ## 🚀 Active Projects
 
-| Project | What it does |
-|---------|-------------|
-| 🛒 [groclist](https://github.com/KapilDuwadi/groclist) | Grocery list app with smart organization |
-| 🎁 [wishlist](https://github.com/KapilDuwadi/wishlist) | Personal wishlist manager — full-stack app |
-| 🏷️ [labelforge](https://github.com/KapilDuwadi/labelforge) | Data labeling tool for training pipelines |
-| ⚡ grid-reducer | Simplifies complex distribution network models for analysis |
-| 🗺️ grid-meta | Metadata extraction and enrichment for power grid datasets |
+- 🛒 **[groclist](https://github.com/KapilDuwadi/groclist)** — Grocery list app with smart organization
+- 🎁 **[wishlist](https://github.com/KapilDuwadi/wishlist)** — Personal wishlist manager — full-stack app
+- 🏷️ **[labelforge](https://github.com/KapilDuwadi/labelforge)** — Data labeling tool for training pipelines
+- ⚡ **grid-reducer** — Simplifies complex distribution network models for analysis
+- 🗺️ **grid-meta** — Metadata extraction and enrichment for power grid datasets
 
 ---
 
@@ -32,12 +30,10 @@ I make power grid data useful. Serious simulation infrastructure at PNNL · micr
 
 Tools built for NREL, PNNL, and the broader energy research community — still running in production.
 
-| Project | What it does | Stars |
-|---------|-------------|-------|
-| 📐 [grid-data-models](https://github.com/NLR-Distribution-Suite/grid-data-models) | Pydantic data models for power distribution system assets — the foundation layer | ⭐ 22 |
-| 🔬 [EMeRGE](https://github.com/NatLabRockies/EMeRGE) | DER impact assessment for distribution networks | ⭐ 17 |
-| 🔀 [shift](https://github.com/NLR-Distribution-Suite/shift) | Build distribution power models from open-source data | ⭐ 6 |
-| 📈 evolve | Time-series load evolution modeling for grid planning | — |
+- 📐 **[grid-data-models](https://github.com/NLR-Distribution-Suite/grid-data-models)** — Pydantic data models for power distribution system assets — the foundation layer
+- 🔬 **[EMeRGE](https://github.com/NatLabRockies/EMeRGE)** — DER impact assessment for distribution networks
+- 🔀 **[shift](https://github.com/NLR-Distribution-Suite/shift)** — Build distribution power models from open-source data
+- 📈 **evolve** — Time-series load evolution modeling for grid planning
 
 ---
 
